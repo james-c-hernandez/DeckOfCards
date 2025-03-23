@@ -1,5 +1,8 @@
 C# Deck of Cards Program
 
+Author: This program was created by James C. Hernandez and represents original work. 
+Any resemblance to other programs is purely coincidental.
+
 Overview:
 This program is a C# implementation of a standard deck of 52 playing cards. It has been designed to serve 
 as a practice tool for hands-on programming scenarios, such as technical lab exercises during job interviews.
