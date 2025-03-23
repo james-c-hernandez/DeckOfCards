@@ -1,6 +1,6 @@
 C# Deck of Cards Program
 
-Overview
+Overview:
 This program is a C# implementation of a standard deck of 52 playing cards. It has been designed to serve 
 as a practice tool for hands-on programming scenarios, such as technical lab exercises during job interviews.
 
@@ -9,7 +9,7 @@ The primary functionality includes:
 2) Shuffling the deck using a randomized algorithm.
 3) Displaying the shuffled deck in its new order.
 
-Purpose
+Purpose:
 The program provides a streamlined solution to demonstrate essential programming skills, including 
 object-oriented principles, algorithm design, and attention to detail. It's an excellent tool for 
 honing problem-solving techniques while preparing for job interviews.
